@@ -3,6 +3,8 @@
   src="IMG_20260906_220047.jpg"
   alt="Герб с камерами"
   width="600" height="auto"> 
+
+Hi. I am Vyacheslav(Slavik, Slava, Vyache). 
   
   <img 
   src="d2dbaa9b66e5b77bb9f5d487cfcb9886.jpg"
@@ -12,7 +14,7 @@
   
 ≛Hobbies: military history, drawing, writing short stories, studying European and Russian cultures, and zoology
 
-Favorite movies and animation:
+✪Favorite movies and animation:
 1883,
 ʜᴀɴɴɪʙᴀʟ, 
 ɴᴀᴘᴏʟᴇᴏɴ (2023), 
