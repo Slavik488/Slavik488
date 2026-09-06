@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! 
+<img src="https://imgur.com/a/Bu40Eoc" alt="Герб" width="1000">
+
 
 <!--
 **Slavik488/Slavik488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
