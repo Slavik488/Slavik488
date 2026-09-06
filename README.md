@@ -1,5 +1,5 @@
 ## Hi! 
-<img src="https://drive.google.com/u/0/uc?id=ID_ФАЙЛА&export=download" alt="Герб" width="1000">
+<img src="https://drive.google.com/uc?id=1IBZpRMIgJukS18hpIRNDNMeSs1N4q1EV" alt="Герб с камерами">
 
 
 <!--
