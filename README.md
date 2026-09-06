@@ -1,5 +1,5 @@
 ## Hi! 
-<img src="https://avatars.mds.yandex.net/get-disk-cover/.../w576_h384" alt="Герб" width="1000">
+<img src="https://drive.google.com/u/0/uc?id=ID_ФАЙЛА&export=download" alt="Герб" width="1000">
 
 
 <!--
