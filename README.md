@@ -1,5 +1,5 @@
 ## Hi! 
-<img src="https://drive.google.com/file/d/1XGAlN5d5rqohtH-SmvIody5pEuRf2xOD/view?usp=drivesdk&export=download" alt="Герб" width="1000">
+<img src="https://drive.google.com/file/d/1IBZpRMIgJukS18hpIRNDNMeSs1N4q1EV/view?usp=drivesdk&export=download" alt="Герб" width="1000">
 
 
 <!--
