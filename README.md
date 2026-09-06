@@ -2,7 +2,13 @@
 <img 
   src="IMG_20260906_220047.jpg"
   alt="Герб с камерами"
-  width="600" height="auto"> <!-- Пропорции сохранятся -->
+  width="600" height="auto"> 
+  
+  <img 
+  src="IMG_20260906_214555.jpg"
+  alt="Герб с камерами"
+  width="600" height="auto"> 
+  <!-- Пропорции сохранятся -->
 
 <!--
 **Slavik488/Slavik488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
