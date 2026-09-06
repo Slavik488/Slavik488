@@ -1,5 +1,6 @@
 ## Hi! 
-<img src=[![c51d55b648fdaa674c5bc1b15d5a88a3-(1).jpg](https://i.postimg.cc/xC5PJ7RF/c51d55b648fdaa674c5bc1b15d5a88a3-(1).jpg)](https://postimg.cc/wytNnwnh) alt="Герб" width="1000">
+<img src="https://postimg.cc/wytNnwnh"
+alt="Герб" width="1000">
 
 
 <!--
