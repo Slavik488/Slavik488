@@ -34,6 +34,8 @@ Hi. I am Vyacheslav(Slavik, Slava, Vyache).
 <p align="center">
   <img src="https://raw.githubusercontent.com/Slavik488/Slavik488/main/ff116eaf058bdafdf7cb48af1e0ad70c.gif" alt="Герб" width="320">
 </p>
+◄:*:✝︎:*:✪:*:✝︎:*:►
+
   <!-- Пропорции сохранятся -->
 
 <!--
