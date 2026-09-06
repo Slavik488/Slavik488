@@ -1,6 +1,7 @@
 ## Hi! 
-<img src="https://drive.google.com/file/d/1XGAlN5d5rqohtH-SmvIody5pEuRf2xOD/view?usp=drivesdk"
-alt="Герб" width="1000">
+<img 
+  src="https://drive.google.com/file/d/1XGAlN5d5rqohtH-SmvIody5pEuRf2xOD/view?usp=drivesdk&export=download"
+  alt="Герб" width="1000">
 
 
 <!--
