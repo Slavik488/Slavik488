@@ -5,7 +5,7 @@
   width="600" height="auto"> 
   
   <img 
-  src="IMG_20260906_214555.jpg"
+  src="d2dbaa9b66e5b77bb9f5d487cfcb9886.jpg"
   alt="ap"
   width="600" height="auto">
 
