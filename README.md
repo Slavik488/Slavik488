@@ -7,6 +7,11 @@
   <img 
   src="IMG_20260906_214555.jpg"
   alt="Герб с камерами"
+  width="600" height="auto">
+
+  <img 
+  src="Iff116eaf058bdafdf7cb48af1e0ad70c.gif"
+  alt="Герб с камерами"
   width="600" height="auto"> 
   <!-- Пропорции сохранятся -->
 
