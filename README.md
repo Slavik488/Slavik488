@@ -1,6 +1,6 @@
 ## Hi! 
 <img 
-  src="66327fe97dfd4b1828e82cbf621a574f.jpg"
+  src="IMG_20260906_215601.jpg"
   alt="Герб с камерами"
   width="600" height="auto"> <!-- Пропорции сохранятся -->
 
