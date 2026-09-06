@@ -1,5 +1,8 @@
 ## Hi! 
-<img src="https://drive.google.com/uc?id=1IBZpRMIgJukS18hpIRNDNMeSs1N4q1EV" alt="Герб с камерами" width="1000">
+<img 
+  src="https://drive.google.com/uc?id=1IBZpRMIgJukS18hpIRNDNMeSs1N4q1EV"
+  alt="Герб с камерами"
+  width="600" height="auto"> <!-- Пропорции сохранятся -->
 
 <!--
 **Slavik488/Slavik488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
