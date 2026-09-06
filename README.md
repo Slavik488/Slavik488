@@ -9,10 +9,9 @@
   alt="ap"
   width="600" height="auto">
 
-  <img 
-  src="Iff116eaf058bdafdf7cb48af1e0ad70c.gif"
-  alt="noiiiiiio"
-  width="600" height="auto"> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Slavik488/Slavik488/main/ff116eaf058bdafdf7cb48af1e0ad70c.gif" alt="Герб" width="320">
+</p>
   <!-- Пропорции сохранятся -->
 
 <!--
