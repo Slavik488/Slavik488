@@ -4,6 +4,7 @@
   alt="Герб с камерами"
   width="600" height="auto"> 
 
+╰┈➤🇷🇺
 Hi. I am Vyacheslav(Slavik, Slava, Vyache). 
   
   <img 
